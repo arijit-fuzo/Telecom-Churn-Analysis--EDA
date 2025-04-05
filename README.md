@@ -1,5 +1,5 @@
 # Telecom-Churn-Analysis--EDA
-   Visit My LinkedIn for more :-
+   Visit My LinkedIn for more :-  https://www.linkedin.com/in/arijit-fouzdar/
 # Telecom Customer Churn Analysis
 **Author**: Arijit Fouzdar
 
